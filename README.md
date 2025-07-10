@@ -2,6 +2,8 @@
 
 CardLink is a modern SaaS platform that provides smart digital business cards with real-time engagement analytics. This project demonstrates a professional marketing site with landing page, pricing, features and authentication pages.
 
+Deployed here: https://starlit-bonbon-03dab3.netlify.app/
+
 ## Features
 
 - **Modern Design**: Built with Next.js and Tailwind CSS following modern UI patterns
